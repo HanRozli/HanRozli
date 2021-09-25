@@ -4,7 +4,7 @@
 - this is a very new thing I've discovered. I'm looking forward to gain as much as knowledge and learn code languages.
 
 - Have a good day. Stay safe!
-- 
+
 - Regards, Han
 
 <!---
